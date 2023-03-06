@@ -14,6 +14,6 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Tom's Jazz" src="https://uploaddeimagens.com.br/imagens/4X05rco" width="100%">
 </p>
 
