@@ -17,3 +17,26 @@
   <img alt="Projeto Tom's Jazz" src="https://uploaddeimagens.com.br/images/004/378/901/full/Captura_de_Tela_%2885%29.png?1678125123" width="100%">
 </p>
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Figma
+
+## 💻 Projeto
+
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://jefersonsantanadev.github.io/toms-jazz)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?node-id=0%3A1&t=tmmxKL3BNJ0Nvzad-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
