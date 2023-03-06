@@ -14,6 +14,6 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Tom's Jazz" src="https://uploaddeimagens.com.br/imagens/4X05rco" width="100%">
+  <img alt="Projeto Tom's Jazz" src="https://uploaddeimagens.com.br/images/004/378/901/full/Captura_de_Tela_%2885%29.png?1678125123" width="100%">
 </p>
 
